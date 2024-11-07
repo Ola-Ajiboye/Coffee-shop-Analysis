@@ -28,6 +28,7 @@ The Power Query Editor provided a robust environment for data cleaning and prepr
 
 ### Data Modeling:
 Power BI’s relationship modeling tools enabled linking related tables, making it possible to analyze data across multiple tables without leaving the Power BI environment.
+![MODELING](https://github.com/user-attachments/assets/fc191b23-8895-41e7-a6e4-863d17bc2fd9)
 
 ### Visualizations: 
 Power BI’s extensive library of visualization options like bar charts, and heatmaps allowed me to create a comprehensive and interactive dashboard to convey insights effectively.
